@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Karla-Bold
+font link: https://fonts.google.com/specimen/Karla
+font author: Jonny Pinhorn
+font author site: https://twitter.com/jonpinhorn_type
+Slogan Font: Renner-Thin.otf
+
+icon designer: Jonathan Li
+icon designer link: /jjjon
+        
+{"bg":"#231B6E","icon":"#1DC7DA","font":"#ffffff","slogan":"#ffffff"}
+      
